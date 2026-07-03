@@ -1,0 +1,7 @@
+# local-only backups / snapshots — not published
+index.bio.html
+index.pre_*.html
+index.snapshot_*.html
+
+# os / editor
+.DS_Store
